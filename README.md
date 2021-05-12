@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://user-images.githubusercontent.com/81032102/117984102-27d9fe80-b2fd-11eb-87b7-5c2e1c86b749.gif" width="40px">, World!&nbsp</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/81032102/117984102-27d9fe80-b2fd-11eb-87b7-5c2e1c86b749.gif" width="40px">Hello World!&nbsp</h1>
 <h3 align="center" ><b> About me </b></h3>
 <!--
 **comayocode/comayocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
