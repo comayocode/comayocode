@@ -7,7 +7,7 @@
 <h4>I am 20 years old, passionate about technology Self-taught frontend developer <img width="22px" src="https://github.com/comayocode/comayocode/blob/main/assets/PC.gif?raw=true"> </h4>
 
   <ul>
-    <li> 📒 <b>I’m currently learning css and Javascriptz</b> </li>
+    <li> 📒 <b>I’m currently learning css and Javascript</b> </li>
      <br>  
     <li> 👨‍💻 <b>I’m currently working on my personal <a href="https://github.com/comayocode/comayocode/edit/main/README.md"> Website </a></b></li>
   </ul>
