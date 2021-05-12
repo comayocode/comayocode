@@ -1,5 +1,22 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/81032102/117984102-27d9fe80-b2fd-11eb-87b7-5c2e1c86b749.gif" width="40px">Hello World!&nbsp</h1>
-<h3 align="center" ><b> About me </b></h3>
+<div align="center">
+    <h2>Hello World, I'm Ronald <img width="25px" src="https://github.com/comayocode/comayocode/blob/main/assets/Earth.gif?raw=true"></h2>
+    <h3>About me<h3>
+</div>
+
+<img align="right" width="350px" src="https://github.com/comayocode/comayocode/blob/main/assets/Dev.gif?raw=true">
+
+<div align="left">
+  <h3>I am 20 years old, passionate about technology Self-taught frontend developer <img width="22px" src="https://github.com/comayocode/comayocode/blob/main/assets/PC.gif?raw=true"> </h3>
+</div>
+
+<div>
+  <ul>
+    <li> 📒 <b>I’m currently learning css and Javascript<b> </li>
+     <br>  
+    <li> 🔭 <b>I’m currently working on my personal <a href="https://github.com/comayocode/comayocode/edit/main/README.md"> Website </a></li>
+  </ul>
+</div>
+
 <!--
 **comayocode/comayocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
