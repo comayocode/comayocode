@@ -7,7 +7,7 @@
   <ul>
     <li> 📒 <b>I’m currently learning css and Javascript</b> </li>
      <br>  
-    <li> 👨‍💻 <b>I’m currently working on my personal <a href="https://github.com/comayocode/comayocode/edit/main/README.md"> Website </a></b></li>
+    <li> 👨‍💻 <b>I’m currently working on my personal <a href="#"> Website </a></b></li>
   </ul>
         
 <h3><b>Skills:</h3>
