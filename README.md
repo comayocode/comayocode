@@ -1,28 +1,28 @@
 <div align="center">
     <h2>Hello World, I'm Ronald <img width="25px" src="https://github.com/comayocode/comayocode/blob/main/assets/Earth.gif?raw=true"></h2>
-    <h3><b>About me<b><h3>
 </div>
-        
+<h3><b>About me</b><h3>
 <img align="right" width="350px" src="https://github.com/comayocode/comayocode/blob/main/assets/Dev.gif?raw=true">
 
-<h3>I am 20 years old, passionate about technology Self-taught frontend developer <img width="22px" src="https://github.com/comayocode/comayocode/blob/main/assets/PC.gif?raw=true"> </h3>
+<h4>I am 20 years old, passionate about technology Self-taught frontend developer <img width="22px" src="https://github.com/comayocode/comayocode/blob/main/assets/PC.gif?raw=true"> </h4>
 
   <ul>
-    <li> 📒 I’m currently learning css and Javascript </li>
+    <li> 📒 <b>I’m currently learning css and Javascriptz</b> </li>
      <br>  
-    <li> 🔭 <b>I’m currently working on my personal <a href="https://github.com/comayocode/comayocode/edit/main/README.md"> Website </a><b></li>
+    <li> 👨‍💻 <b>I’m currently working on my personal <a href="https://github.com/comayocode/comayocode/edit/main/README.md"> Website </a></b></li>
   </ul>
         
-<h3>Languages and Tools</h3>
-<br>
+<h3><b>Skills:</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
-
+<b>
+<h3>How to reach me:</h3>
+<a href="mailto:ronalc726@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 
 <!--
