@@ -1,8 +1,8 @@
 <h1 align="center">Hola mundo, soy Ronald <img width="25px" src="https://github.com/comayocode/comayocode/blob/main/assets/Earth.gif?raw=true"></h1>
 <h3><b>Sobre mí</b><h3>
-<img align="right" width="350px" src="https://github.com/comayocode/comayocode/blob/main/assets/Dev.gif?raw=true">
+<img align="right" width="350px" src="https://github.com/comayocode/comayocode/blob/main/assets/Dev2.gif">
 
-<h4>Tengo 21 años, me encanta todo lo relacionado sobre la tecnología y computadoras. Me considero una persona autodidacta, me gusta estar en constante aprendizaje y superación.<img width="22px" src="https://github.com/comayocode/comayocode/blob/main/assets/Dev2.gif"> </h4>
+<h4>Tengo 21 años, me encanta todo lo relacionado sobre la tecnología y computadoras. Me considero una persona autodidacta, me gusta estar en constante aprendizaje y superación.<img width="22px" src="https://github.com/comayocode/comayocode/blob/main/assets/PC%20(1).gif"> </h4>
 
   <ul>
       <li> 🦾 <b> Mejorando mis habilidades en desarrollo web </li>
