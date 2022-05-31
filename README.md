@@ -5,11 +5,11 @@
 <h4>Tengo 21 años, me encanta todo lo relacionado sobre la tecnología y computadoras. Me considero una persona autodidacta, me gusta estar en constante aprendizaje y superación.<img width="22px" src="https://github.com/comayocode/comayocode/blob/main/assets/PC.gif?raw=true"> </h4>
 
   <ul>
-    <li> 📒 <b> Actualmente estoy estudiando en </b> <a href="https://www.misiontic2022.gov.co/portal/">  Misiontic</a> </li> 
-     <br>
-    <li> 👨‍💻 <b> Aprendiendo Python </li>
+      <li> 🦾 <b> Mejorando mis habilidades en desarrollo web </li>
       <br>
-    <li> 🦾 <b> Mejorando mis habilidades en desarrollo web </li>
+      <li> 📒 <b> Actualmente estoy estudiando en </b> <a href="https://www.misiontic2022.gov.co/portal/">  Misiontic</a> </li> 
+      <br>
+      <li> 👨‍💻 <b> Aprendiendo Python </li>
   </ul>
         
 <h3><b>Habilidades:</h3>
