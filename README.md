@@ -1,4 +1,4 @@
-<h1 align="center">Hola mundo, soy Ronald <img width="25px" src="https://github.com/comayocode/comayocode/blob/main/assets/Earth.gif?raw=true"></h1>
+<h1 align="center">Hola mundo, soy Ronald <img width="25px" height="25" src="https://github.com/comayocode/comayocode/blob/main/assets/Earth.gif?raw=true"></h1>
 <h3><b>Sobre mí</b><h3>
 <img align="right" width="350px" src="https://github.com/comayocode/comayocode/blob/main/assets/Dev2.gif">
 
