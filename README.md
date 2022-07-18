@@ -2,7 +2,7 @@
 <h3><b>Sobre mí</b><h3>
 <img align="right" height="230px" src="https://github.com/comayocode/comayocode/blob/main/assets/Dev.gif">
 
-<h4>Tengo 21 años, soy técnico en desarrollo de software, me encanta todo lo relacionado sobre la tecnología y computadoras. Me considero una persona autodidacta en constante aprendizaje, con muchas ganas de adquirir conocimiento para poder aportar y ayudar a los demás. </h4> <!-- <img width="22px" src="https://github.com/comayocode/comayocode/blob/main/assets/PC.gif">-->
+<h4>Tengo 22 años, soy técnico en desarrollo de software, me encanta todo lo relacionado sobre la tecnología y computadoras. Me considero una persona autodidacta en constante aprendizaje, con muchas ganas de adquirir conocimiento para poder aportar y ayudar a los demás. </h4> <!-- <img width="22px" src="https://github.com/comayocode/comayocode/blob/main/assets/PC.gif">-->
 
   <ul>
       <li> 🦾 <b> Mejorando mis habilidades en desarrollo web </li>
