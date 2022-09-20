@@ -1,6 +1,6 @@
+<h1 align="center">Hello World!<img width="25px" height="25" src="https://github.com/comayocode/comayocode/blob/main/assets/Earth.gif?raw=true"></h1>
 <img src="https://github.com/comayocode/comayocode/blob/main/assets/GithubBanner_v2.jpg">
 
-<h1 align="center">Hola mundo, soy Ronald <img width="25px" height="25" src="https://github.com/comayocode/comayocode/blob/main/assets/Earth.gif?raw=true"></h1>
 <h3><b>Sobre mí</b><h3>
 <img align="right" width="400" src="https://github.com/comayocode/comayocode/blob/main/assets/Complement Banner.png">
 
@@ -31,9 +31,9 @@
 <h3>Cómo contactarme</h3>
 <a href="mailto:ronalc726@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://twitter.com/_rocodev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<a href="https://twitter.com/comayocode"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/ronald-comayan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/comayo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 
