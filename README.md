@@ -1,6 +1,9 @@
+<img src="https://github.com/comayocode/comayocode/blob/main/assets/GithubBanner_v2.jpg">
+
 <h1 align="center">Hola mundo, soy Ronald <img width="25px" height="25" src="https://github.com/comayocode/comayocode/blob/main/assets/Earth.gif?raw=true"></h1>
 <h3><b>Sobre mí</b><h3>
-<img align="right" height="230px" src="https://github.com/comayocode/comayocode/blob/main/assets/Dev.gif">
+<img align="right" width="400" src="https://github.com/comayocode/comayocode/blob/main/assets/Complement Banner.png">
+
 
 <h4>Tengo 22 años, soy técnico en desarrollo de software, me encanta todo lo relacionado sobre la tecnología y computadoras. Me considero una persona autodidacta en constante aprendizaje, con muchas ganas de adquirir conocimiento para poder aportar y ayudar a los demás. </h4> <!-- <img width="22px" src="https://github.com/comayocode/comayocode/blob/main/assets/PC.gif">-->
 
@@ -18,6 +21,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
 <br>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
