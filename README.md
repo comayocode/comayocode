@@ -1,15 +1,17 @@
 <h1 align="center">Hola mundo, soy Ronald <img width="25px" height="25" src="https://github.com/comayocode/comayocode/blob/main/assets/Earth.gif?raw=true"></h1>
 <h3><b>Sobre mí</b><h3>
+<img src="https://github.com/comayocode/comayocode/blob/main/assets/banner v2.png">
+<!--
 <img align="right" height="230px" src="https://github.com/comayocode/comayocode/blob/main/assets/Dev.gif">
-
+-->
 <h4>Tengo 22 años, soy técnico en desarrollo de software, me encanta todo lo relacionado sobre la tecnología y computadoras. Me considero una persona autodidacta en constante aprendizaje, con muchas ganas de adquirir conocimiento para poder aportar y ayudar a los demás. </h4> <!-- <img width="22px" src="https://github.com/comayocode/comayocode/blob/main/assets/PC.gif">-->
 
   <ul>
-      <li> 🦾 <b> Mejorando mis habilidades en desarrollo web </li>
+      <li> 🦾 <b> Mejorando mis habilidades en desarrollo web y bases de datos</li>
       <br>
       <li> 📒 <b> Actualmente estoy estudiando en </b> <a href="https://www.misiontic2022.gov.co/portal/">  Misiontic</a> </li> 
       <br>
-      <li> 👨‍💻 <b> Aprendiendo Python </li>
+      <li> 👨‍💻 <b> Mi meta es convertirme en Desarrollador Full Stack </li>
   </ul>
         
 <h3><b>Habilidades:</h3>
