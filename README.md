@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!<img width="25px" height="25" src="https://github.com/comayocode/comayocode/blob/main/assets/Earth.gif?raw=true"></h1>
+<h1 align="center">Hello World! <img width="25px" height="25" src="https://github.com/comayocode/comayocode/blob/main/assets/Earth.gif?raw=true"></h1>
 <img src="https://github.com/comayocode/comayocode/blob/main/assets/GithubBanner_v2.jpg">
 
 <h3><b>Sobre mí</b><h3>
