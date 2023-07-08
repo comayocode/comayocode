@@ -3,7 +3,7 @@
 </p>
 
 ```java
-package logica;
+package readme;
 
 public abstract class Persona {
     private String nombre = "Ronald Comayan";
@@ -12,9 +12,7 @@ public abstract class Persona {
 }
 ```
 ```java
-package logica;
-
-import java.util.Arrays;
+package readme;
 
 public class Desarrollador extends Persona{
     private String[] lenguajes = {"JavaScript", "Java", "HTML", "CSS"};
