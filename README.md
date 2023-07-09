@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/comayocode/comayocode/blob/main/assets/GithubBanner_v2.jpg" />
+  <img src="https://github.com/comayocode/comayocode/blob/main/assets/GithubBanner_v3.jpg" />
 </p>
 
 ```java
